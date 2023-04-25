@@ -8,3 +8,4 @@ nav:
     - Home: index.md
 theme:
   name: 'material'
+  custom_dir: custom-pyscript

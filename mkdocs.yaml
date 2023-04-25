@@ -1,0 +1,10 @@
+site_name: Games
+site_description: 'A docs test'
+site_author: 'axequalsb'
+docs_dir: docs/
+repo_name: 'axequalsb/pyscript-experiments'
+repo_url: 'https://github.com/axequalsb/pyscript-experiments'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'

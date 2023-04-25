@@ -1,0 +1,3 @@
+[submodule "games/themes/hugo-cat"]
+	path = games/themes/hugo-cat
+	url = https://github.com/httpsecure/hugo-cat.git
